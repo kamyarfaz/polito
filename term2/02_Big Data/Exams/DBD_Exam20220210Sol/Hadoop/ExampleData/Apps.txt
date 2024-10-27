@@ -1,0 +1,6 @@
+App1,PolitoApp,0,Education,Polito
+App2,PolimiApp,3.5,Education,Polimi
+App3,JuveApp,5,Sport,JuventusFC
+App4,PolitoInte,0,Education,Polito
+App5,PolibaApp,3.5,Education,Poliba
+App6,PolibaAppinte,0,Education,Poliba

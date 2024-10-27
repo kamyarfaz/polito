@@ -1,0 +1,15 @@
+User1,App2,2019/01/01-23:01:15,Install
+User1,App1,2022/01/01-23:01:15,Install
+User1,App1,2022/01/02-23:01:15,Remove
+User1,App1,2022/11/01-23:01:15,Install
+User1,App3,2022/02/02-13:01:15,Install
+User2,App1,2022/01/01-23:01:15,Install
+User2,App2,2022/03/02-13:01:15,Install
+User2,App3,2022/11/02-13:01:15,Install
+User2,App3,2022/11/03-13:01:15,Remove
+User3,App3,2022/12/02-03:03:05,Install
+User4,App1,2022/01/01-23:01:15,Install
+User4,App1,2022/01/02-23:01:15,Remove
+User4,App3,2022/02/02-13:01:15,Install
+User4,App3,2022/02/03-13:01:15,Remove
+User4,App3,2022/02/04-13:01:15,Install

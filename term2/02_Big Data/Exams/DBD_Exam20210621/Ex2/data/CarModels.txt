@@ -1,0 +1,9 @@
+Panda,Panda,FIAT
+Tipo,Tipo,FIAT
+500,500,FIAT
+A,A,M1
+B,B,M1
+C,C,M1
+D,D,M2
+E,E,M2
+F,F,M2

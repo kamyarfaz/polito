@@ -1,0 +1,3 @@
+MID10,Moto G,Motorola
+MID11,Moto X,Motorola
+MID12,Test Mobile,MyBrand

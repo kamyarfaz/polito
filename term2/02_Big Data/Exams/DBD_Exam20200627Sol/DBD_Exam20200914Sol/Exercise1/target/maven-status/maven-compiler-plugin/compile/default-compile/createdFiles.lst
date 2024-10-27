@@ -1,0 +1,4 @@
+it/polito/bigdata/hadoop/exercise1/MapperBigData.class
+it/polito/bigdata/hadoop/exercise1/DriverBigData.class
+it/polito/bigdata/hadoop/exercise1/ReducerBigData.class
+it/polito/bigdata/hadoop/exercise1/YearOccurrences.class
